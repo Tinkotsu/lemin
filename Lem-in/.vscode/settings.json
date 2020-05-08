@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"lemin.h": "c",
+		"fcntl.h": "c"
+	},
+	"python.pythonPath": "/usr/bin/python3"
+}
